@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">CatLovers</string>
+
+    <string name="cat_type">Jenis Kucing</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="cat_type">
+        <item>Domestik</item>
+        <item>Siam</item>
+        <item>Anggora</item>
+        <item>Persia</item>
+        <item>Sphynx</item>
+        <item>Ragdoll</item>
+        <item>Maine Coon</item>
+        <item>British Shorthair</item>
+        <item>Devon Rex</item>
+        <item>Scottish Fold</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kucing domestik adalah kucing peliharaan tanpa ras tertentu yang sering ditemui di rumah-rumah. Kucing ini tidak memiliki standar ras khusus dan biasanya bervariasi dalam ukuran, warna, serta pola bulu. Mereka dikenal sebagai kucing yang tangguh dan adaptif, mudah menyesuaikan diri dengan lingkungan dan pemiliknya. Sifatnya sangat bervariasi tergantung pada masing-masing individu, tetapi umumnya mereka cenderung bersifat mandiri, ramah, dan mudah berinteraksi dengan manusia.</item>
+        <item>Kucing Siam berasal dari Thailand (dahulu dikenal sebagai Siam) dan dikenal karena tubuhnya yang ramping, elegan, serta mata biru cerah yang mencolok. Bulu mereka pendek, dengan warna terang dan bagian ujung tubuh seperti telinga, ekor, dan kaki berwarna lebih gelap (disebut dengan "point"). Kucing Siam sangat vokal dan memiliki suara yang khas, sering kali berkomunikasi dengan pemiliknya. Mereka adalah kucing yang cerdas, penuh energi, dan membutuhkan perhatian serta interaksi manusia secara teratur.</item>
+        <item>Kucing Anggora berasal dari Turki dan dikenal dengan bulunya yang panjang, lembut, dan tubuhnya yang anggun. Biasanya berwarna putih dengan mata yang bisa berwarna biru atau kuning (kadang-kadang heterokromia, dengan satu mata biru dan satu kuning). Anggora adalah kucing yang aktif, lincah, dan sangat cerdas. Mereka suka bermain dan sering kali senang berada di sekitar orang, menjadikannya kucing yang ramah serta penuh kasih sayang.</item>
+        <item>Kucing Persia terkenal dengan bulunya yang panjang, wajah datar (brachycephalic), dan penampilannya yang anggun. Mereka memiliki kepala bulat dengan mata besar, hidung yang pesek, dan tubuh yang pendek namun berotot. Kucing ini dikenal karena sifatnya yang tenang, lembut, dan lebih suka suasana yang damai. Kucing Persia biasanya tidak terlalu aktif atau agresif, sehingga cocok untuk pemilik yang menginginkan hewan peliharaan yang tenang dan penyayang.</item>
+        <item>Kucing Sphynx adalah salah satu ras kucing yang paling unik karena mereka hampir tidak memiliki bulu. Kulit mereka halus, berkerut, dan membutuhkan perawatan khusus untuk menjaga kebersihan. Sphynx memiliki tubuh berotot dan biasanya sangat suka bermain. Meskipun penampilannya mungkin terlihat "dingin," mereka dikenal sangat ramah, penuh kasih sayang, dan suka kehangatan, sering kali mencari perhatian dan sentuhan dari pemiliknya.</item>
+        <item>Kucing Ragdoll adalah ras kucing besar yang dikenal dengan sifatnya yang sangat lembut dan tenang. Mereka memiliki bulu semi-panjang dan sering kali berwarna terang dengan bagian "point" gelap di telinga, ekor, dan wajah seperti kucing Siam. Nama "Ragdoll" berasal dari kecenderungan mereka untuk bersikap sangat rileks ketika dipegang, seperti boneka kain. Kucing ini sangat ramah, suka dipeluk, dan menjadi pilihan yang baik untuk keluarga dengan anak-anak atau hewan peliharaan lainnya.</item>
+        <item>Maine Coon adalah salah satu ras kucing domestik terbesar, dengan berat yang bisa mencapai 7-12 kg. Mereka memiliki bulu panjang yang tebal untuk menghadapi iklim dingin, serta ekor yang lebat. Maine Coon terkenal karena kepribadiannya yang ramah, cerdas, dan seperti "anjing," karena mereka cenderung sangat setia kepada pemiliknya. Meskipun besar, mereka adalah kucing yang lembut dan suka berinteraksi dengan manusia tanpa menjadi terlalu agresif.</item>
+        <item>British Shorthair adalah kucing yang padat, berotot, dan memiliki bulu pendek serta tebal. Mereka sering kali memiliki wajah bulat dengan pipi besar, hidung pendek, dan mata besar. Kucing ini dikenal tenang, mandiri, dan tidak terlalu banyak menuntut perhatian. British Shorthair merupakan kucing yang cocok untuk pemilik yang lebih suka hewan peliharaan yang tenang, namun mereka tetap ramah dan penuh kasih sayang terhadap keluarganya.</item>
+        <item>Kucing Devon Rex dikenal karena bulunya yang pendek, keriting, dan telinganya yang besar. Mereka memiliki tubuh ramping dengan karakteristik wajah yang unik, hampir seperti elf, dengan mata besar dan ekspresif. Kucing ini sangat energik, suka bermain, dan memiliki sifat yang penuh rasa ingin tahu. Devon Rex adalah kucing yang suka kehangatan dan sering kali berusaha dekat dengan pemiliknya untuk mendapatkan perhatian dan kasih sayang.</item>
+        <item>Scottish Fold adalah kucing yang dikenal dengan ciri fisik telinganya yang terlipat ke depan, memberikan penampilan yang unik dan menggemaskan. Mereka memiliki tubuh bulat dan mata besar yang ekspresif. Scottish Fold dikenal sebagai kucing yang penyayang, tenang, dan ramah. Mereka sering kali senang berinteraksi dengan manusia tetapi tidak terlalu agresif atau memerlukan perhatian berlebihan, menjadikannya pilihan populer sebagai hewan peliharaan keluarga.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/domestik</item>
+        <item>@drawable/siam</item>
+        <item>@drawable/anggora</item>
+        <item>@drawable/persia</item>
+        <item>@drawable/sphynx</item>
+        <item>@drawable/ragdoll</item>
+        <item>@drawable/maine_coon</item>
+        <item>@drawable/british_shorthair</item>
+        <item>@drawable/devon_rex</item>
+        <item>@drawable/scottish_fold</item>
+    </integer-array>
+
+    <string-array name="name_other">
+        <item>Kucing Kampung, Kucing Lokal, Domestic Shorthair, Stray Cat, Moggie</item>
+        <item>Siamese, Thai Cat, Wichienmaat, Moon Diamond Cat
+        </item>
+        <item>Turkish Angora, Ankara Cat, Angora, Kucing Putih Turki
+        </item>
+        <item>Exotic Persian, Flat-faced Persian, Doll-face Persian, Longhair Persian
+        </item>
+        <item>- Canadian Sphynx, Hairless Cat, Sphynx, Tanpa Bulu</item>
+        <item>Ragdoll, Floppy Cat, Ragamuffin</item>
+        <item>Giant Maine, Maine Coon Cat, American Longhair, Maine Shag</item>
+        <item>British Shorthair, British Blue, Brit Cat</item>
+        <item>Elf Rex, Devon Rex, Alien Cat, Pixie Cat</item>
+        <item>Scottish Fold, Fold Cat, Highland Fold</item>
+    </string-array>
+
+    <string-array name="characteristics">
+        <item>Mandiri Ramah, Adaptif, Ukuran dan pola bulu bervariasi</item>
+        <item>Ramping, Elegan, Mata biru cerah, Pendiam, Vokal</item>
+        <item>Anggun, Bulu panjang, Mata heterokromia, Lincah</item>
+        <item>Tenang, Lembut, Wajah datar, Bulu panjang</item>
+        <item>Tanpa bulu, Berotot, Berkerut, Sangat ramah</item>
+        <item>Tenang, Lembut, Bulu semi-panjang, Rileks</item>
+        <item>Besar, Bulu lebat, Ramah, Seperti anjing</item>
+        <item>Padat, Mandiri, Tenang, Bulu tebal</item>
+        <item>Energik, Bulu keriting, Rasa ingin tahu tinggi</item>
+        <item>Telinga terlipat, Penyayang, Tenang, Ramah</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="name">Baso Ummul Ikshan</string>
+    <string name="gmail">Iccankar04@gmail.com</string>
+
+</resources>
